@@ -1,5 +1,4 @@
-### Hi there 👋
-🌱 I’m currently learning React, JavaScript
+<h1 align="center">FrontEnd Developer Scott<h1/>
 <br />
 <br />
 
