@@ -1,8 +1,6 @@
 <h1 align="center">FrontEnd Developer Scott<h1/>
-<br />
-<br />
-
-<h3 align="center">Tech Stack</h3>
+<div align="center">
+  <h3 align="center">Tech Stack</h3>
 <br />
 <div style = {
   display:flex
@@ -21,6 +19,9 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
+</div>
+
+
 <!--
 **hanjihyeong/hanjihyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
