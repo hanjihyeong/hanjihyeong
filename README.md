@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 </div>
+<br />
+<div>잘부탁드립니다</div>
 
 
 <!--
