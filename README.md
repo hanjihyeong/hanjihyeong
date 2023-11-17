@@ -21,7 +21,10 @@
 </div>
 </div>
 <br />
-<div>잘부탁드립니다</div>
+<div style = {
+  display:flex
+  align="center"
+  }>잘부탁드립니다</div>
 
 
 <!--
