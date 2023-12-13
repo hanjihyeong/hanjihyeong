@@ -24,7 +24,8 @@
 <div style = {
   display:flex
   align="center"
-  }>잘부탁드립니다</div>
+  }>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjihyeong&show_icons=true&theme=dark)
+</div>
 
 
 <!--
