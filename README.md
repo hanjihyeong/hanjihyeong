@@ -21,11 +21,18 @@
 </div>
 </div>
 <br />
-<div style = {
+ <div style = {
   display:flex
   align="center"
-  }>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjihyeong&show_icons=true&theme=dark)
-</div>
+  >
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjihyeong&show_icons=true&theme=vue)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjihyeong&layout=compact&theme=vue)
+ </div> 
+
+
+
+
 
 
 <!--
