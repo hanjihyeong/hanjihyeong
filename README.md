@@ -1,6 +1,6 @@
 <h1 align="center">FrontEnd Developer Scott<h1/>
 <div align="center">
-  <h3 align="center">Tech Stack</h3>
+  <h3 align="center">🛠️Tech Stack🛠️</h3>
 <br />
 <div style = {
   display:flex
@@ -19,8 +19,17 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
+  <br />
+<div style = {
+  display:flex
+  align="center"
+  }>
+  <img src="https://img.shields.io/badge/VITE-ffffff?style=for-the-badge&logo=vite&logoColor=#646CFF"/>
+  <img src="https://img.shields.io/badge/ReactQuery-ffffff?style=for-the-badge&logo=reactquery&logoColor=#FF4154"/>
+</div>
 </div>
 <br />
+  <hr />
  <div style = {
   display:flex
   align="center"
