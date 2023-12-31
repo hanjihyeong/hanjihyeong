@@ -36,6 +36,12 @@
   >
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjihyeong&show_icons=true&theme=vue)
+ </div> 
+ <div style = {
+  display:flex
+  align="center"
+  >
+   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjihyeong&layout=compact&theme=vue)
  </div> 
 
